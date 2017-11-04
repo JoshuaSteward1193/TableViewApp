@@ -40,8 +40,19 @@ public class DetailActivity extends AppCompatActivity {
     private int getImage(int index) {
         switch (index) {
             case 0: return R.drawable.alderaan;
-            case 1:
-            case 2:
+            case 1: return R.drawable.cato_neimoidia;
+            case 2: return R.drawable.christophsis;
+            case 3: return R.drawable.coruscant;
+            case 4: return R.drawable.dagobah;
+            case 5: return R.drawable.dantooine;
+            case 6: return R.drawable.endor;
+            case 7: return R.drawable.felucia;
+            case 8: return R.drawable.geonosis;
+            case 9: return R.drawable.hoth;
+            case 10: return R.drawable.jakku;
+            case 11: return R.drawable.kashyyyk;
+            case 12: return R.drawable.mandalore;
+            case 13: return R.drawable.mustafar;
             default: return -1;
         }
     }
