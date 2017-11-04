@@ -2,7 +2,7 @@
     <string name="app_name">Star Wars Planets</string>
 
     <string-array name="planets">
-        <item>planet1</item>
+        <item>Alderaan</item>
         <item>planet2</item>
         <item>planet3</item>
         <item>planet4</item>
@@ -18,7 +18,7 @@
         <item>planet14</item>
     </string-array>
     <string-array name="descriptions">
-        <item>des1</item>
+        <item>The homeworld of Princess Leia.</item>
         <item>des2</item>
         <item>des3</item>
         <item>des4</item>
