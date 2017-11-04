@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Star Wars Planets</string>
+
+    <string-array name="planets">
+        <item>planet1</item>
+        <item>planet2</item>
+        <item>planet3</item>
+        <item>planet4</item>
+        <item>planet5</item>
+        <item>planet6</item>
+        <item>planet7</item>
+        <item>planet8</item>
+        <item>planet9</item>
+        <item>planet10</item>
+        <item>planet11</item>
+        <item>planet12</item>
+        <item>planet13</item>
+        <item>planet14</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>des1</item>
+        <item>des2</item>
+        <item>des3</item>
+        <item>des4</item>
+        <item>des5</item>
+        <item>des6</item>
+        <item>des7</item>
+        <item>des8</item>
+        <item>des9</item>
+        <item>des10</item>
+        <item>des11</item>
+        <item>des12</item>
+        <item>des13</item>
+        <item>des14</item>
+    </string-array>
+</resources>
